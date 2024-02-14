@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "David Hollerith",
+            "title": "Troubled lender NYCB seeks to reassure investors after 60% stock slide, Moody's credit downgrade - Yahoo Finance",
+            "description": "New York Community Bancorp is attempting to reassure investors about its deposits, liquidity and governance following a week-long plunge in the company’s...",
+            "url": "https://finance.yahoo.com/news/troubled-lender-nycb-seeks-to-reassure-investors-after-60-stock-slide-moodys-credit-downgrade-125240216.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UY8VXwYZu8BcBNCGYkCynw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/aef22000-c5b5-11ee-aecf-4947cbc7d67f",
+            "publishedAt": "2024-02-07T12:52:40Z",
+            "content": "New York Community Bancorp (NYCB) is attempting to reassure investors about its deposits, liquidity, and governance following a week-long plunge in the companys stock and a decision by Moodys to cut … [+6829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Foxweather.com"
+            },
+            "author": "Steven Yablonski",
+            "title": "Fast-moving storm threatens California one day after deadly atmospheric river exits - Fox Weather ",
+            "description": "Just one day after a deadly atmospheric river storm moved out of California and made its way to the east and impacted the Las Vegas area, where preparations are underway for Super Bowl LVIII, another storm will move into the Golden State with additional rain …",
+            "url": "https://www.foxweather.com/weather-news/california-weather-forecast-storm-rain-snow-atmospheric-river",
+            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2024/02/1024/512/Los-Angeles-Rain-02072024.png?ve=1&tl=1",
+            "publishedAt": "2024-02-07T12:46:19Z",
+            "content": "LOS ANGELES – Just one day after a deadly atmospheric river storm moved out of California and made its way to the east and impacted the Las Vegas area, where preparations are underway for Super Bowl … [+2023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Prince Harry Reunites with Father as King's Cancer Treatment Begins - The Royal Family Channel",
+            "description": "'Prince Harry Reunites with Father as King's Cancer Treatment Begins'King Charles’ cancer diagnosis has shocked the nation, with countless well-wishes sent H...",
+            "url": "https://www.youtube.com/watch?v=TqR_DD5yUf0",
+            "urlToImage": "https://i.ytimg.com/vi/TqR_DD5yUf0/maxresdefault.jpg",
+            "publishedAt": "2024-02-07T12:36:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Leah Sarnoff",
+            "title": "How NASA’s PACE mission hopes to examine oceanic and atmospheric mysteries - ABC News",
+            "description": "NASA's PACE spacecraft is set to launch early Thursday morning from Florida.",
+            "url": "https://abcnews.go.com/US/nasas-pace-mission-hopes-examine-oceanic-atmospheric-mysteries/story?id=106986291",
+            "urlToImage": "https://i.abcnewsfe.com/a/726117ce-016d-4b32-b03e-3db8585acc71/pace-nasa-mission-ht-lv-240206_1707255163440_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-07T12:21:57Z",
+            "content": "While NASA is known for observing and researching outer space, the agency is also using a spacecraft to explore a frontier here on Earth -- the world's oceanic and atmospheric mysteries.\r\nNASA's PACE… [+2976 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Frances Vinall",
+            "title": "Vending machines can get STI tests to more people, U.K. study suggests - The Washington Post",
+            "description": "A British study seeking to overcome barriers to testing for sexually transmitted diseases found that more than half of users were taking their first such test.",
+            "url": "https://www.washingtonpost.com/health/2024/02/07/vending-machine-sti-testing-uk/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JIBZXZHWTKW7AQFGQYWEGHUC3A.JPG&w=1440",
+            "publishedAt": "2024-02-07T12:15:57Z",
+            "content": "In at least two British cities, certain vending machines offer up not snacks and sodas but a more unusual item: free self-test kits for sexually transmitted diseases.\r\nThe initiative aims to overcome… [+4304 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Amelia Lucas",
+            "title": "Yum Brands disappoints as KFC, Taco Bell and Pizza Hut fall short of same-store sales expectations - CNBC",
+            "description": "Yum is the third global restaurant giant to report disappointing revenue for the last three months of 2023.",
+            "url": "https://www.cnbc.com/2024/02/07/yum-brands-yum-q4-2023-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107369745-1707243815934-gettyimages-1946046925-widak-dailylif240121_npd8H.jpeg?v=1707243905&w=1920&h=1080",
+            "publishedAt": "2024-02-07T12:00:47Z",
+            "content": "Yum Brands on Wednesday reported quarterly earnings and revenue that missed analysts' expectations as KFC, Taco Bell and Pizza Hut all reported weaker-than-expected sales.\r\nYum is the third global re… [+1803 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "WhatsApp is preparing to roll out third-party chat support - TechCrunch",
+            "description": "With a month away from the Digital Markets Act (DMA) deadline, WhatsApp is preparing to allow other messaging networks in its app.",
+            "url": "https://techcrunch.com/2024/02/07/whatsapp-is-preparing-to-roll-out-third-party-chat-support/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/whatsapp-logo.jpg?resize=1200,800",
+            "publishedAt": "2024-02-07T11:35:56Z",
+            "content": "With a month away from the Digital Markets Act (DMA) deadline, WhatsApp is preparing to allow other messaging networks in its app.\r\nIn an interview with Wired, Dick Brouwer, an engineering director a… [+2408 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Scott Thompson",
+            "title": "Oklahoma honors Toby Keith, an avid Sooners fan, with heartfelt tribute before basketball game - Fox News",
+            "description": "The Oklahoma Sooners paid homage to the late Toby Keith, an avid supporter of his native state's athletics, following his death due to stomach cancer.",
+            "url": "https://www.foxnews.com/sports/oklahoma-honors-toby-keith-avid-sooners-fan-heartfelt-tribute-before-basketball-game",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/Toby-Keith-2.jpg",
+            "publishedAt": "2024-02-07T11:14:00Z",
+            "content": "The Oklahoma Sooners paid tribute to a native of the state, country singer Toby Keith, who passed away Monday after a battle with stomach cancer. Keith was 62 years old. \r\nKeith was a well-known Soon… [+2436 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Claudia Chiappa",
+            "title": "Tucker Carlson faces media fury over Putin interview - POLITICO Europe",
+            "description": "The controversial pundit is interviewing the Russian leader. Now other journalists are raging at “this SoB.”",
+            "url": "https://www.politico.eu/article/journalists-fume-tucker-carlson-vladmir-putin-interview-russia/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/02/07/GettyImages-1805125608-scaled.jpg",
+            "publishedAt": "2024-02-07T11:05:00Z",
+            "content": "But Carlson’s monologue, in which he lambasted Western media and claimed it wasn’t making an effort to hear Putin’s side of the story, has sparked backlash from American and Russian journalists.\r\nMan… [+1263 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Melissa Quinn",
+            "title": "Trump's ballot eligibility is headed to the Supreme Court. Here's what to know about Thursday's historic arguments. - CBS News",
+            "description": "The justices will be wading into uncharted legal waters to hear a case that could have sweeping ramifications for the 2024 presidential race.",
+            "url": "https://www.cbsnews.com/news/trump-ballot-eligibility-case-supreme-court/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/02/06/a16a0a9a-95bd-4ba1-8a67-9ea5316a5b3d/thumbnail/1200x630g1/b7d14f1ce6d924cbc37a688ab0078eb2/gettyimages-1980713107.jpg?v=09f617bc45cf30bf4fa8525d3acea178",
+            "publishedAt": "2024-02-07T11:00:17Z",
+            "content": "Washington — When the nine members of the Supreme Court take their seats on the bench on Thursday, they will be wading into uncharted legal waters to hear a case that could have sweeping ramification… [+15952 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Yulia Drozd, Kevin Shalvey",
+            "title": "Russia unleashes 'massive' airstrike on Ukraine, Zelenskyy says - ABC News",
+            "description": "\"We will definitely retaliate against Russia,\" President Zelenskyy said.",
+            "url": "https://abcnews.go.com/International/russia-unleashes-massive-airstrike-ukraine-zelenskyy/story?id=107016443",
+            "urlToImage": "https://i.abcnewsfe.com/a/ab5d7003-84ae-436b-8789-5fbf612b386b/ukraine-strike_1707300584363_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-07T10:53:53Z",
+            "content": "KYIV and LONDON -- Russian missiles struck Kyiv early on Wednesday, killing at least four, destroying homes and temporarily knocking out power for many, Ukrainian officials said.\r\n\"Another massive Ru… [+1349 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Al Green leaves hospital to cast vote against Alejandro Mayorkas impeachment - BBC.com",
+            "description": "Al Green wore hospital garb as he cast his decisive ballot that killed the impeachment measure.",
+            "url": "https://www.bbc.com/news/world-us-canada-68228938",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0918/production/_132582320_gettyimages-1749106851.jpg",
+            "publishedAt": "2024-02-07T10:33:54Z",
+            "content": "Listen: US Representative Al Green explains why he left the hospital to vote\r\nA Democratic lawmaker from Texas left the hospital briefly to cast a crucial vote against the impeachment of the homeland… [+2135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mansfield News Journal"
+            },
+            "author": "Zach Tuggle",
+            "title": "April 8 total solar eclipse will bring millions of visitors to Ohio - Mansfield News Journal",
+            "description": "Millions of visitors are expected to invade Ohio two months from now for front-seat views of the April 8 total solar eclipse.",
+            "url": "https://www.mansfieldnewsjournal.com/story/news/2024/02/07/april-8-total-solar-eclipse-ohio-millions-visitors-prepare-now/72494468007/",
+            "urlToImage": "https://www.mansfieldnewsjournal.com/gcdn/-mm-/c24f7b1e8df85d00cfd7c20d499b7a0b23c3b5cf/c=0-151-1632-1073/local/-/media/2017/08/21/OHGroup/Marion/636389207339820888-BUC-eclipse-1.jpg?width=1632&height=922&fit=crop&format=pjpg&auto=webp",
+            "publishedAt": "2024-02-07T10:31:00Z",
+            "content": "Millions of visitors are expected to invade Ohio two months from now for front-seat views of the April 8 total solar eclipse.\r\nThe extra people could easily cause traffic jams, overload cellphone tow… [+5752 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katia Hetter",
+            "title": "What women can do to reduce their risk from heart disease - CNN",
+            "description": "Heart disease is the leading cause of death for women, but the different symptoms in women means it can be overlooked. Here are some ways to reduce the risks.",
+            "url": "https://www.cnn.com/2024/02/07/health/women-improve-heart-health-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1280549729.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-07T10:00:00Z",
+            "content": "Get inspired by a weekly roundup on living well, made simple. Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nWomen are more likely to hav… [+7175 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Charlotte Greenfield, Asif Shahzad",
+            "title": "Blasts near Pakistan candidates' offices kill 24 on eve of election - Reuters",
+            "description": "Two explosions near electoral candidates' offices in Pakistan's southwestern province of Balochistan killed 26 people and wounded dozens on Wednesday, officials said, raising concerns over security on the eve of a general election.",
+            "url": "https://www.reuters.com/world/asia-pacific/jail-pakistans-imran-khan-asks-supporters-wait-by-poll-stations-after-vote-2024-02-07/",
+            "urlToImage": "https://www.reuters.com/resizer/dHGEnwA9Vphd7_qdi4LyPNbUDug=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AQOEHI7O5VIDDFLZ3LM3464LGI.jpg",
+            "publishedAt": "2024-02-07T09:53:00Z",
+            "content": null
+        }
+    ]
+}
