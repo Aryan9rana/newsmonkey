@@ -24,7 +24,7 @@ export default class News extends Component {
     async componentDidMount() {
         console.log("cdm");
         this.props.setProgress(10);
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&category=${this.props.category}&apiKey=838c1793dfcf46db803749cd646eed2e&page=1&pageSize=${this.props.pageSize}`;
+        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&category=${this.props.category}&apiKey=${this.props.api}&page=1&pageSize=${this.props.pageSize}`;
         this.setState({ loading: true });
         this.props.setProgress(50);
         let data = await fetch(url);
@@ -40,7 +40,7 @@ export default class News extends Component {
     handleNext = async () => {
         console.log("next");
         this.props.setProgress(20);
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=838c1793dfcf46db803749cd646eed2e&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
+        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.api}&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
         this.setState({ loading: true });
         this.props.setProgress(50);
         let data = await fetch(url);
@@ -56,7 +56,7 @@ export default class News extends Component {
 
     handlePrev = async () => {
         this.props.setProgress(20);
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=838c1793dfcf46db803749cd646eed2e&page=${this.state.page - 1}&pageSize=1${this.props.pageSize}`;
+        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.api}&page=${this.state.page - 1}&pageSize=1${this.props.pageSize}`;
         this.setState({ loading: true });
         this.props.setProgress(50);
         let data = await fetch(url);
